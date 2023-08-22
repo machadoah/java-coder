@@ -1,0 +1,11 @@
+package teste.basico.umparaum;
+
+public class NovoClienteAssento1 {
+	
+	public static void main(String[] args) {
+		
+		
+		
+	}
+
+}

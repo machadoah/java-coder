@@ -1,0 +1,43 @@
+1687651295856	Rename package 'f_oo.c_gettersSetters'
+1687651635522	Delete element
+1687652552981	Copy package
+1687652566458	Delete element
+1687652579140	Copy compilation units
+1687653046470	Copy compilation unit
+1687653068955	Delete element
+1687653161906	Rename type 'Teste'
+1687655009379	Copy compilation units
+1687655172929	Move compilation units
+1687656670904	Rename package 'f_oo.f_classesAbstratas.b_zoologico'
+1687657113834	Rename package 'e_lambdas'
+1687663931584	Rename type 'Soma'
+1687663980700	Rename type 'CalculoTeste'
+1687665214013	Move compilation units
+1687696047819	Rename package 'g_lambdas.a_introducao'
+1687696075900	Rename package 'g_lambdas.b_interfaceFuncional'
+1687700354024	Delete element
+1687706293302	Rename package 'g_lambdas.f_supridor'
+1687710246455	Rename package 'g_lambdas.g_UnaryOperator'
+1687710491902	Rename package 'g_lambdas.h_binaryOperator'
+1687711289291	Rename package 'g_lambdas.i_biFunction'
+1687721719348	Rename local variable 'it'
+1687732041485	Delete element
+1687738454813	Copy compilation unit
+1687840328580	Delete element
+1687893604315	Copy compilation unit
+1687893708983	Copy compilation unit
+1687893839018	Rename type 'NumeroNegativoException'
+1687895620952	Copy package
+1687895632002	Rename package 'i_TratamentoErros.c_personalizada'
+1687895646888	Rename package 'i_TratamentoErros.c_personalizadaB'
+1687896147275	Rename package 'i_TratamentoErros.c_personalizadaA'
+1687896159099	Rename package 'i_TratamentoErros.d_personalizadaB'
+1687896173118	Rename package 'i_TratamentoErros.e_finaliza'
+1688053158774	Rename method 'aguardar'
+1688053190783	Rename method 'aguardar'
+1688054246335	Copy compilation unit
+1688054253160	Rename type 'ListaUtil'
+1688054271273	Delete element
+1688054276757	Rename type 'ListaUtil1'
+1688054283723	Copy compilation unit
+1688054290445	Rename type 'ListaUtilTeste'

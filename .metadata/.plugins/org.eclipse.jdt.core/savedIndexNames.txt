@@ -1,0 +1,23 @@
+INDEX VERSION 1.134+C:\Users\anton\GitHub\java-coder\.metadata\.plugins\org.eclipse.jdt.core
+3951195282.index
+4207240212.index
+2202826637.index
+1563433815.index
+764535017.index
+3210737415.index
+3754757469.index
+1902623186.index
+1985262958.index
+1485362341.index
+2530844925.index
+2021492419.index
+1031069284.index
+1175072080.index
+2884488739.index
+138335763.index
+600919165.index
+712802324.index
+1865797976.index
+1089467945.index
+3311424784.index
+3989741828.index
